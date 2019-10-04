@@ -4,4 +4,4 @@
 
 import 'package:flutter/widgets.dart';
 
-void main() => runApp(const Center(child: Text('Hello, world!', textDirection: TextDirection.ltr)));
+void main() => runApp(const Center(child: Text('Hello, world! Welcome to Flutter, the new way to code on Android and iOS', textDirection: TextDirection.ltr)));
